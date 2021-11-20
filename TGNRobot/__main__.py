@@ -221,7 +221,7 @@ def start(update: Update, context: CallbackContext):
             )
     else:
         update.effective_message.reply_video(
-            START_IMG, caption= "<code>Zaid is Here For You❤\nI am Awake Since</code>: <code>{}</code>".format(
+            START_IMG, caption= "<code>Anime Bot is Here For You❤\nI am Awake Since</code>: <code>{}</code>".format(
                 uptime            
             ),
             parse_mode=ParseMode.HTML,
@@ -392,7 +392,7 @@ def Source_about_callback(update, context):
     query = update.callback_query
     if query.data == "source_":
         query.message.edit_text(
-            text=""" Hi..🤗 I am [Robot](t.me/TGN_Ro_Bot)
+            text=""" Hi..🤗 I am [Robot](t.me/AnimeXWrld_Chat)
                  \nHere is the [Source Code](https://pratheek06) .""",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
