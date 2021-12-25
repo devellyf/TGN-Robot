@@ -2,7 +2,7 @@
 
 ### 🎖 History
 
-[![Mentioned in Awesome Python](https://awesome.re/mentioned-badge.svg)](https://github.com/Itsunknown-12/TGN-Robot)
+[![Mentioned in Awesome Python](https://awesome.re/mentioned-badge.svg)](https://github.com/devellyf/TGN-Robot)
 
 <p align = "center"><a herf = "https://t.me/Zaid2_Ro_bot" alt = "Zaid"><img src = "https://telegra.ph/file/54f8bedfdaca2954d2ed4.png" width = "900"></a></p>
 
